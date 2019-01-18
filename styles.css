@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    border: 20px groove yellow;
+    color: brown;
+    background-color: black;
+}
+
+body {
+    text-align: center;
+}
+
+.gem {
+    display: none;
+    width: 300px;
+    height: 300px;
+}
+
+.ruby {
+    margin-left: 250px;
+}
+.gnomed {
+    display: none;
+    width: 500px;
+    height: 400px;
+}
+
+    
+#gottem {
+    display: none;
+}
+
+#next {
+    display: none;
+}
+
+#choose {
+    display: none;
+}
+
+#touch {
+    display: none;
+}
+
+#hand {
+    display: none;
+}
